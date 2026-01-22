@@ -18,7 +18,7 @@
 - 🏢 Working at **Wahana Makmur Sejati**
 - 🌱 Currently learning **CakePHP, Laravel, Data Analysis**
 - 🤝 Open for collaboration & real-world projects
-- 🌐 Portfolio → **https://indrarp.github.io/webprofile/**
+- 🌐 Portfolio → **http://indrapratama.biz.id/**
 - 📫 Email → **indraridho08@gmail.com**
 
 ---
