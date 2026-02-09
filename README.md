@@ -68,7 +68,7 @@
 ### ⚙ Tools
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma)
-![VSCode](https://img.shields.io/badge/VSCode-111827?style=for-the-badge&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/VisualStudioCode-111827?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
