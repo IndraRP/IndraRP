@@ -50,7 +50,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Nuxt](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=nuxt)
+![Nuxt](https://img.shields.io/badge/Nuxt-111827?style=for-the-badge&logo=nuxt)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
 
 ### 📊 Data
