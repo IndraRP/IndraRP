@@ -54,7 +54,7 @@
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
 ![Nuxt](https://img.shields.io/badge/Nuxt-111827?style=for-the-badge&logo=nuxt)
-![Next](https://img.shields.io/badge/Next-111827?style=for-the-badge&logo=nextjs)
+![Next](https://img.shields.io/badge/Next-111827?style=for-the-badge&logo=next.js)
 ![StoryBook](https://img.shields.io/badge/StoryBook-111827?style=for-the-badge&logo=storyBook)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap)
