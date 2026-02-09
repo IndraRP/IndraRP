@@ -38,20 +38,26 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Backend
+### ♨️ Programming Language
+![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+
+### 💻 Backend
 ![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel)
 ![CakePHP](https://img.shields.io/badge/CakePHP-111827?style=for-the-badge&logo=cakephp)
 ![Node](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
 ![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django)
 
 ### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
 ![Nuxt](https://img.shields.io/badge/Nuxt-111827?style=for-the-badge&logo=nuxt)
+![Next](https://img.shields.io/badge/Next-111827?style=for-the-badge&logo=next)
+![StoryBook](https://img.shields.io/badge/StoryBook-111827?style=for-the-badge&logo=storyBook)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap)
 
 ### 📊 Data
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
